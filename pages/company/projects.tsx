@@ -228,9 +228,9 @@ const projects = () => {
               </div>{' '}
             </div>
             <div className="col-lg-8 col-md-8">
-              <div className="section-title">
+              <div className="section-title bg-red-800">
                 <h2 className="title">Feature Projects</h2>
-                <div className="d-sm-flex bg-white box-shadow p-4 mb-5">
+                <div className="d-sm-flex bg-white box-shadow p-4 mb-5 ">
                   <div className="flex-grow-1 ms-sm-4 mt-4 mt-sm-0">
                     <h6 className="font-w-6">Minda Group</h6>
                     <div className="d-flex align-items-end">
